@@ -1,0 +1,2 @@
+# repotest
+primo repository
