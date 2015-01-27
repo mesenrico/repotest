@@ -180,6 +180,13 @@
     <Content Include="res\screens\windows\splashscreen.png" />
     <Content Include="res\screens\windows\SplashScreen.scale-240.png" />
     <Content Include="res\screens\wp8\screen-portrait.jpg" />
+    <TypeScriptCompile Include="scripts\typings\angularjs\angular-animate.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\angularjs\angular-cookies.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\angularjs\angular-mocks.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\angularjs\angular-resource.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\angularjs\angular-route.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\angularjs\angular-sanitize.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\angularjs\angular.d.ts" />
     <TypeScriptCompile Include="scripts\typings\cordova\cordova.d.ts" />
     <TypeScriptCompile Include="scripts\typings\cordova\plugins\BatteryStatus.d.ts" />
     <TypeScriptCompile Include="scripts\typings\cordova\plugins\Camera.d.ts" />
@@ -200,6 +207,7 @@
     <TypeScriptCompile Include="scripts\typings\cordova\plugins\StatusBar.d.ts" />
     <TypeScriptCompile Include="scripts\typings\cordova\plugins\Vibration.d.ts" />
     <TypeScriptCompile Include="scripts\typings\cordova\plugins\WebSQL.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
   <PropertyGroup>
     <TypeScriptToolsVersion>1.0</TypeScriptToolsVersion>
